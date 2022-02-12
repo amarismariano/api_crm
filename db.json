@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Mariano ACTUALIZADO",
+      "empresa": "Empresa",
+      "email": "email@email.com",
+      "telefono": "3002276557",
+      "notas": "Cliente recomendado",
+      "id": 1
+    },
+    {
+      "nombre": "Karen ",
+      "empresa": "Diseño",
+      "email": "karen@email.com",
+      "telefono": "123456789",
+      "notas": "Cotizando",
+      "id": 2
+    }
+  ]
+}
